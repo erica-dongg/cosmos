@@ -61,8 +61,8 @@ Markdown Guide: <https://www.markdownguide.org>
 Click [here](https://en.wikipedia.org/wiki/Markdown) to see get more info.
 
 #### Link to internal section
-- [here](#-list)
-- [there](#-unordered-list)
+- [here](#3-quote)
+- [there](#unordered-list)
 
 ## 5. Horizontal line
 ---
@@ -120,6 +120,12 @@ z &= (x+y)^{2} \\
 \end{aligned}
 $$
 
+$$
+\begin{align*}
+&123\\
+&= 56679
+\end{align*}
+$$
 
 
 ---
